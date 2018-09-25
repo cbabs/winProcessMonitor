@@ -1,5 +1,5 @@
 # winProcessMonitor
-Python based windows process monitor.  Reports issues via syslog and/or email
+Python based Windows process monitor.  Reports issues via syslog and/or email
 
 ## Monitor windows servers and processes
 
@@ -10,14 +10,14 @@ MS Exchange and Graylog, but should work well with any SMTP and syslog server.
 
 ## Setup
 
-You will need to clone from github and install 3 python libraries.  If run pip install -r requirements from the cloned dir.  You will need to have pip as a sys path or call it from the dir where it resides.
+You will need to clone from github and install 3 python libraries.  
+If run pip install -r requirements from the cloned dir.  You will
+need to have pip as a sys path or call it from the dir where it resides.
 
 For example:
 
 git clone https://github.com/cbabs/winProcessMonitor
-
 cd winProcessMonitor
-
 pip install -r requirements.txt
 
 ## Configure and run the app
