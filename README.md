@@ -15,7 +15,9 @@ You will need to clone from github and install 3 python libraries.  If run pip i
 For example:
 
 git clone https://github.com/cbabs/winProcessMonitor
+
 cd winProcessMonitor
+
 pip install -r requirements.txt
 
 ## Configure and run the app
