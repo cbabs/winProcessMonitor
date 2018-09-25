@@ -16,8 +16,10 @@ need to have pip as a sys path or call it from the dir where it resides.
 
 For example:
 
-git clone https://github.com/cbabs/winProcessMonitor
+git clone https://github.com/cbabs/winProcessMonitor 
+
 cd winProcessMonitor
+
 pip install -r requirements.txt
 
 ## Configure and run the app
